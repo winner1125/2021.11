@@ -10,7 +10,16 @@
   line-height:normal;
   text-transform:none;
 }
+.box_1 {
+}
+.ellipse {
+}
 ._图片_ {
+}
+.placeholder {
+}
+.primary_button {
+  color:#FFFFFF;
 }
 .link_button {
   color:#169BD5;
@@ -63,9 +72,20 @@
 ._文本段落 {
   text-align:left;
 }
+.line {
+}
 .text_field {
   color:#000000;
   text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.table_cell {
 }
 ._表单提示 {
   color:#999999;
@@ -88,5 +108,7 @@
 .form_disabled {
 }
 .flow_shape {
+}
+.icon {
 }
 textarea, select, input, button { outline: none; }
