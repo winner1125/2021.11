@@ -18,6 +18,8 @@
 }
 .placeholder {
 }
+.button {
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -85,6 +87,8 @@
 .checkbox {
   text-align:left;
 }
+._流程形状 {
+}
 .table_cell {
 }
 ._表单提示 {
@@ -110,5 +114,20 @@
 .flow_shape {
 }
 .icon {
+}
+.heading_3 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.box_3 {
+}
+.box_2 {
+}
+.shape {
+}
+.line1 {
 }
 textarea, select, input, button { outline: none; }
